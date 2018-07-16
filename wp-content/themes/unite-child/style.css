@@ -1,0 +1,12 @@
+/*
+Theme Name: Unite Child
+Description: The custom theme Unite Child using the parent theme Unite.
+Author: HaiDuong
+Author URI: 
+Template: unite
+Version: 1
+*/
+
+/* Import style.css from parrent theme */
+@import url("../unite/style.css");
+
